@@ -1,0 +1,15 @@
+.Header {
+    color: rgb(12, 20, 20);
+    height: 8vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin: none;
+    box-sizing: border-box;
+}
+
+.Logo {
+    margin-left: 25%;
+    align-self: center;
+}

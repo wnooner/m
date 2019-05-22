@@ -1,0 +1,54 @@
+.Hero {
+    display: inline-block;
+    height: 92vh;
+    width: 99.15%;
+    box-sizing: border-box;
+    position: relative;
+    margin: none;
+    background-image: linear-gradient(to right,rgb(255, 255, 255, .5) 40%,rgb(255, 255, 255, .1) 95%), url('../../images/hero.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Container {
+    color: black;
+    position: relative;
+    top: 30%;
+    left: 20%;
+    width: 30%;
+    height: 20%;
+    overflow: wrap;
+    font: inherit;
+}
+
+h3 {
+    font-size: 3em;
+    position: relative;
+    margin: none;
+}
+
+p {
+    font-size: 1.5em;
+    margin: none;
+}
+
+button {
+    text-align: center;
+    border: 5px solid rgb(17, 16, 16);
+    font-weight: 700;
+    height: 4rem;
+    width: 14rem;
+    background: transparent;
+    text-transform: uppercase;
+    border-radius: 10rem;
+    cursor: pointer;
+    font: inherit;
+    padding: 1rem;
+    margin: 3rem .5rem;
+    overflow: none;
+    transition: .5s;
+}
+
+button:hover {
+    background-color: green;
+}

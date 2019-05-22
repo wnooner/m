@@ -1,0 +1,23 @@
+.Main {
+    margin-top: 10rem;
+    left: 25%;
+    width: 50%;
+    position: relative;
+    text-align: center;
+}
+
+.Servicelist {
+    position: relative;
+    display: flex;
+    padding: 0rem 1rem;
+    justify-content: space-between;
+}
+
+.Servicebutton {
+    position: relative;
+    
+}
+
+h3 {
+    font-size: 3em;
+}

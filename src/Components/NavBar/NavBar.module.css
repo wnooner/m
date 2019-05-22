@@ -1,0 +1,16 @@
+.Navlink {
+    margin-right: 2rem;
+    align-self: center;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.Navlink:hover {
+    color: green;
+}
+
+.Navlist {
+    margin-right: 25%;
+    display: flex;
+    font-size: 120%;
+}
